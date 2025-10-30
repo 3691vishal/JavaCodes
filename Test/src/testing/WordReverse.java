@@ -19,3 +19,15 @@ public class WordReverse {
 	}
 
 }
+
+
+
+
+
+
+/*
+Features:
+String >>>>>>	Immutable, 	ThreadSafe,		Synchronized,		Slow;	 FixedString
+StringBuffer >	Mutable,	ThreadSafe,		Synchronized,		Slow;	 MultiThreadThreadOperation
+StringBuilder > Mutable,	Not-ThreadSafe,	Not-Synchronized,	Fastest; SingleThreadOperation
+*/

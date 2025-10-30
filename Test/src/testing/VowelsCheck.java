@@ -4,7 +4,7 @@ public class VowelsCheck {
 
 	public static void main(String[] args) {
 		
-		String s1 = "Check vowel count";
+		String s1 = "Vishal Sharma";
 		int count=0;
 		
 		s1.toLowerCase();
